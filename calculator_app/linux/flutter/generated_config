@@ -1,0 +1,6 @@
+# Generated code do not commit.
+export FLUTTER_ROOT=/home/vimm/flutter
+export BUILD=debug
+export TRACK_WIDGET_CREATION=false
+export FLUTTER_TARGET=/home/vimm/code/android/calculator_app/lib/main.dart
+export PROJECT_DIR=/home/vimm/code/android/calculator_app
